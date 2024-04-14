@@ -1,0 +1,12 @@
+/* margin on the sides of the text */
+body{
+    margin: 5vh 5vw;
+}
+/* custom font for heading  */
+h1, th, p{
+    font-family: 'Oswald', sans-serif;
+}
+/* custom font for all other text */
+a,td,input{
+    font-family: 'Poppins', sans-serif;
+}
